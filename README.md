@@ -1,6 +1,6 @@
 ## Hello, I'm Chris Guimarães! 👋
 
-I'm immersed in the technical area for more than 20 years... I had some fancy titles ranging from Enterprise Solutions Architect to Software Developer, but what I am interested is in put a computer to build things.
+I'm immersed in the technical area for more than 20 years... and nowadays my focus is Web3 where I am building bridges between traditional software development (Web2) and Blockchain ecosystems.
 
 ### 🔧 Technologies & Tools
 
