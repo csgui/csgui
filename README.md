@@ -8,7 +8,7 @@ Building high-performance software. Solving complex technical problems.
 > $ what_i_do.sh
 
 ### Web3 & Blockchain
-Smart contracts, decentralized applications, on-chain tooling, and protocol-level engineering.
+On-chain tooling, decentralized applications and protocol-level engineering.
 
 ### Systems Programming & Embedded
 Retro emulators, language tooling, compilers, and runtime systems.  
