@@ -17,5 +17,3 @@ I'm immersed in the technical area for more than 20 years... and nowadays my foc
 
 🚀 [Site](https://imchris.me) <br>
 🐦 [Twitter](https://twitter.com/csgui) <br>
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=csgui.csgui)
