@@ -1,42 +1,25 @@
-# Software Developer & Systems Architect
+### `$ whoami`
 
 Building high-performance software. Solving complex technical problems.
 
-**Tech focus:**  
-`Rust` 🦀 • `C` • `WebAssembly` 🌐 • `Blockchain` • `Cryptography` • `Systems Programming` • `Compilers` • `Embedded`
+`Rust` 🦀 • `C` • `WebAssembly` 🌐 
 
-> $ what_i_do.sh
+`Blockchain` • `Cryptography`
 
-### Web3 & Blockchain
+`Systems Programming` • `Compilers` • `Embedded`
+
+### `$ ./what_i_do.sh`
+
+#### Web3 & Blockchain
 On-chain tooling, decentralized applications and protocol-level engineering.
 
-### Systems Programming & Embedded
+#### Systems Programming & Embedded
 Retro emulators, language tooling, compilers, and runtime systems.  
 Deep understanding of low-level architecture, memory models, and performance optimization.
 
-### WebAssembly
+#### WebAssembly
 Cross-platform, sandboxed, high-performance modules for browsers, servers, and embedded devices.
 
-### Cryptography & Security
-Implement cryptographic primitives, secure protocols, zero-knowledge proofs, and data integrity systems.  
+#### Cryptography & Security
+Interested in cryptographic primitives, secure protocols and data integrity systems.  
 Passionate about privacy, correctness, and building trustless systems.
-
-> $ my_approach.sh
-
-- Write maintainable, high-performance code  
-- Balance pragmatic solutions with technical rigor  
-- Build from first principles  
-- Test, benchmark, profile, and iterate  
-- Value honest feedback  
-- Prioritize security and correctness globally  
-
-> $ connect.sh
-
-
-Open to challenging projects, research collaborations, and long-term systems work where **engineering craftsmanship and security matter**.
-
----
-
-**Building things that work. Learning things that matter.**
-
-
