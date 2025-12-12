@@ -4,7 +4,7 @@ Building high-performance software. Solving complex technical problems.
 
 `Rust` 🦀 • `C` • `WebAssembly` 🌐 
 
-`Blockchain` • `Cryptography`
+`Blockchain` • `Distributed Systems` • `Cryptography`
 
 `Systems Programming` • `Compilers` • `Embedded`
 
